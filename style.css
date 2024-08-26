@@ -1,0 +1,26 @@
+
+.flex {
+    display: flex;
+    flex-direction: column;
+}
+
+.flex input {
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.textarea {
+    width: 500px;
+    height: 100px;
+    padding: 5px 5px;
+    font-family: sans-serif;
+}
+
+.styleButton {
+    padding: 10px 5px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgb(94, 94, 223);
+    color: white;
+    cursor: pointer;
+}
